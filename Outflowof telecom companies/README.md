@@ -9,15 +9,15 @@
 - seaborn
 - matplotlib
 - phik
-- sklearn.ensemble.RandomForestClassifier
-- catboost.CatBoostClassifier
-- sklearn.linear_model.LogisticRegression
-- sklearn.model_selection.train_test_split
-- sklearn.metrics accuracy_score, confusion_matrix, roc_auc_score, roc_curve
+- sklearn.ensemble.**RandomForestClassifier**
+- catboost.**CatBoostClassifier**
+- sklearn.linear_model.**LogisticRegression**
+- sklearn.model_selection.**train_test_split**
+- sklearn.metrics **accuracy_score, confusion_matrix, roc_auc_score, roc_curve**
 - sklearn.preprocessing
 - sklearn.pipeline
-- sklearn.model_selection import GridSearchCV
-- tqdm.notebook import tqdm
-- 
+- sklearn.model_selection.**GridSearchCV**
+- tqdm
+
 ## Вывод ##
 В ходе работы над проектом я провела исследовательский анализ данных, их предобработку, обучила 3 модели и протестировала лучшую из них, проанализировала результаты.
